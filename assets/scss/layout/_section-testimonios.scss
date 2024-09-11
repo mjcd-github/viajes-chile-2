@@ -1,0 +1,40 @@
+//sección testimonos
+.testimonios__title {
+    color: #ffffff;
+  }
+  .testimonios {
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+  }
+  
+  .testimonios .row {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 68%;
+    margin-top: 20px;
+  }
+  .testimonios hr {
+    width: 68%;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px solid #d5c7ad;
+  }
+  .testimonios__image {
+    display: block;
+    color: #d5c7ad;
+  }
+  .testimonios .card__text {
+    text-align: center;
+    color: #d5c7ad;
+  }
+  .testimonios__image--size {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    object-fit: cover;
+    border: solid 1px #ffffff;
+  }
+  
+  //Fin seccion testimonios
